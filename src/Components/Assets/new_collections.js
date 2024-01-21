@@ -2,7 +2,7 @@ import p1_img from './p1_img.jpg'
 import p2_img from './p2_img.jpg'
 
 
-let data_product= [
+let new_collections= [
     {
         id: 1,
         name: "Black Coat",
@@ -39,4 +39,4 @@ let data_product= [
         old_price: 80.00
     },
 ]
- export default data_product;
+ export default new_collections;
